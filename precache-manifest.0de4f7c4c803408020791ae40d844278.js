@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/guilst/static/js/runtime~main.f072991b.js"
   },
   {
-    "revision": "73256f92cc1eb429680d",
-    "url": "/guilst/static/js/main.73256f92.chunk.js"
+    "revision": "c35fa5feadfea4994255",
+    "url": "/guilst/static/js/main.c35fa5fe.chunk.js"
   },
   {
     "revision": "f1681fa9878259d333a3",
     "url": "/guilst/static/js/1.f1681fa9.chunk.js"
   },
   {
-    "revision": "73256f92cc1eb429680d",
+    "revision": "c35fa5feadfea4994255",
     "url": "/guilst/static/css/main.d61f439c.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/guilst/static/css/1.fbdeff6d.chunk.css"
   },
   {
-    "revision": "ef53f5298fdadfdf468f1688e63b490f",
+    "revision": "c5268bf477fc0e6e5f8b04598cb5611c",
     "url": "/guilst/index.html"
   }
 ];
