@@ -1,3 +1,24 @@
+# Guilst
+
+### How to use
+
+Generate a token with scope `gist` https://github.com/settings/tokens
+
+Save info to localStorage to have it pre-filled
+
+```js
+localStorage.setItem(
+  'github',
+  JSON.stringify({
+    url: 'https://api.github.com', // you can send a GHE api too
+    user: 'username',
+    token: 'token',
+  })
+)
+```
+
+# create-react-app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
